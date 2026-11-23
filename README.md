@@ -34,65 +34,242 @@ The hostname must end with `42`; the domain can remain empty. Before committing 
 <summary>Show the 59 VM installation images</summary>
 
 <div align="center">
-<figure><a href="README-images/vm-setup/page-001.jpg"><img src="README-images/vm-setup/page-001.jpg" alt="VM installation step 1" width="500"></a><figcaption>Step 01: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-002.jpg"><img src="README-images/vm-setup/page-002.jpg" alt="VM installation step 2" width="500"></a><figcaption>Step 02: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-003.jpg"><img src="README-images/vm-setup/page-003.jpg" alt="VM installation step 3" width="500"></a><figcaption>Step 03: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-004.jpg"><img src="README-images/vm-setup/page-004.jpg" alt="VM installation step 4" width="500"></a><figcaption>Step 04: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-005.jpg"><img src="README-images/vm-setup/page-005.jpg" alt="VM installation step 5" width="500"></a><figcaption>Step 05: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-006.jpg"><img src="README-images/vm-setup/page-006.jpg" alt="VM installation step 6" width="500"></a><figcaption>Step 06: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-007.jpg"><img src="README-images/vm-setup/page-007.jpg" alt="VM installation step 7" width="500"></a><figcaption>Step 07: VirtualBox and boot preparation.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-008.jpg"><img src="README-images/vm-setup/page-008.jpg" alt="VM installation step 8" width="500"></a><figcaption>Step 08: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-009.jpg"><img src="README-images/vm-setup/page-009.jpg" alt="VM installation step 9" width="500"></a><figcaption>Step 09: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-010.jpg"><img src="README-images/vm-setup/page-010.jpg" alt="VM installation step 10" width="500"></a><figcaption>Step 10: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-011.jpg"><img src="README-images/vm-setup/page-011.jpg" alt="VM installation step 11" width="500"></a><figcaption>Step 11: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-012.jpg"><img src="README-images/vm-setup/page-012.jpg" alt="VM installation step 12" width="500"></a><figcaption>Step 12: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-013.jpg"><img src="README-images/vm-setup/page-013.jpg" alt="VM installation step 13" width="500"></a><figcaption>Step 13: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-014.jpg"><img src="README-images/vm-setup/page-014.jpg" alt="VM installation step 14" width="500"></a><figcaption>Step 14: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-015.jpg"><img src="README-images/vm-setup/page-015.jpg" alt="VM installation step 15" width="500"></a><figcaption>Step 15: Debian installer configuration.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-016.jpg"><img src="README-images/vm-setup/page-016.jpg" alt="VM installation step 16" width="500"></a><figcaption>Step 16: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-017.jpg"><img src="README-images/vm-setup/page-017.jpg" alt="VM installation step 17" width="500"></a><figcaption>Step 17: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-018.jpg"><img src="README-images/vm-setup/page-018.jpg" alt="VM installation step 18" width="500"></a><figcaption>Step 18: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-019.jpg"><img src="README-images/vm-setup/page-019.jpg" alt="VM installation step 19" width="500"></a><figcaption>Step 19: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-020.jpg"><img src="README-images/vm-setup/page-020.jpg" alt="VM installation step 20" width="500"></a><figcaption>Step 20: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-021.jpg"><img src="README-images/vm-setup/page-021.jpg" alt="VM installation step 21" width="500"></a><figcaption>Step 21: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-022.jpg"><img src="README-images/vm-setup/page-022.jpg" alt="VM installation step 22" width="500"></a><figcaption>Step 22: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-023.jpg"><img src="README-images/vm-setup/page-023.jpg" alt="VM installation step 23" width="500"></a><figcaption>Step 23: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-024.jpg"><img src="README-images/vm-setup/page-024.jpg" alt="VM installation step 24" width="500"></a><figcaption>Step 24: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-025.jpg"><img src="README-images/vm-setup/page-025.jpg" alt="VM installation step 25" width="500"></a><figcaption>Step 25: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-026.jpg"><img src="README-images/vm-setup/page-026.jpg" alt="VM installation step 26" width="500"></a><figcaption>Step 26: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-027.jpg"><img src="README-images/vm-setup/page-027.jpg" alt="VM installation step 27" width="500"></a><figcaption>Step 27: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-028.jpg"><img src="README-images/vm-setup/page-028.jpg" alt="VM installation step 28" width="500"></a><figcaption>Step 28: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-029.jpg"><img src="README-images/vm-setup/page-029.jpg" alt="VM installation step 29" width="500"></a><figcaption>Step 29: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-030.jpg"><img src="README-images/vm-setup/page-030.jpg" alt="VM installation step 30" width="500"></a><figcaption>Step 30: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-031.jpg"><img src="README-images/vm-setup/page-031.jpg" alt="VM installation step 31" width="500"></a><figcaption>Step 31: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-032.jpg"><img src="README-images/vm-setup/page-032.jpg" alt="VM installation step 32" width="500"></a><figcaption>Step 32: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-033.jpg"><img src="README-images/vm-setup/page-033.jpg" alt="VM installation step 33" width="500"></a><figcaption>Step 33: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-034.jpg"><img src="README-images/vm-setup/page-034.jpg" alt="VM installation step 34" width="500"></a><figcaption>Step 34: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-035.jpg"><img src="README-images/vm-setup/page-035.jpg" alt="VM installation step 35" width="500"></a><figcaption>Step 35: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-036.jpg"><img src="README-images/vm-setup/page-036.jpg" alt="VM installation step 36" width="500"></a><figcaption>Step 36: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-037.jpg"><img src="README-images/vm-setup/page-037.jpg" alt="VM installation step 37" width="500"></a><figcaption>Step 37: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-038.jpg"><img src="README-images/vm-setup/page-038.jpg" alt="VM installation step 38" width="500"></a><figcaption>Step 38: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-039.jpg"><img src="README-images/vm-setup/page-039.jpg" alt="VM installation step 39" width="500"></a><figcaption>Step 39: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-040.jpg"><img src="README-images/vm-setup/page-040.jpg" alt="VM installation step 40" width="500"></a><figcaption>Step 40: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-041.jpg"><img src="README-images/vm-setup/page-041.jpg" alt="VM installation step 41" width="500"></a><figcaption>Step 41: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-042.jpg"><img src="README-images/vm-setup/page-042.jpg" alt="VM installation step 42" width="500"></a><figcaption>Step 42: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-043.jpg"><img src="README-images/vm-setup/page-043.jpg" alt="VM installation step 43" width="500"></a><figcaption>Step 43: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-044.jpg"><img src="README-images/vm-setup/page-044.jpg" alt="VM installation step 44" width="500"></a><figcaption>Step 44: Encrypted storage and partitioning.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-045.jpg"><img src="README-images/vm-setup/page-045.jpg" alt="VM installation step 45" width="500"></a><figcaption>Step 45: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-046.jpg"><img src="README-images/vm-setup/page-046.jpg" alt="VM installation step 46" width="500"></a><figcaption>Step 46: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-047.jpg"><img src="README-images/vm-setup/page-047.jpg" alt="VM installation step 47" width="500"></a><figcaption>Step 47: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-048.jpg"><img src="README-images/vm-setup/page-048.jpg" alt="VM installation step 48" width="500"></a><figcaption>Step 48: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-049.jpg"><img src="README-images/vm-setup/page-049.jpg" alt="VM installation step 49" width="500"></a><figcaption>Step 49: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-050.jpg"><img src="README-images/vm-setup/page-050.jpg" alt="VM installation step 50" width="500"></a><figcaption>Step 50: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-051.jpg"><img src="README-images/vm-setup/page-051.jpg" alt="VM installation step 51" width="500"></a><figcaption>Step 51: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-052.jpg"><img src="README-images/vm-setup/page-052.jpg" alt="VM installation step 52" width="500"></a><figcaption>Step 52: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-053.jpg"><img src="README-images/vm-setup/page-053.jpg" alt="VM installation step 53" width="500"></a><figcaption>Step 53: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-054.jpg"><img src="README-images/vm-setup/page-054.jpg" alt="VM installation step 54" width="500"></a><figcaption>Step 54: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-055.jpg"><img src="README-images/vm-setup/page-055.jpg" alt="VM installation step 55" width="500"></a><figcaption>Step 55: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-056.jpg"><img src="README-images/vm-setup/page-056.jpg" alt="VM installation step 56" width="500"></a><figcaption>Step 56: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-057.jpg"><img src="README-images/vm-setup/page-057.jpg" alt="VM installation step 57" width="500"></a><figcaption>Step 57: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-058.jpg"><img src="README-images/vm-setup/page-058.jpg" alt="VM installation step 58" width="500"></a><figcaption>Step 58: Logical-volume and filesystem review.</figcaption></figure><br>
-<figure><a href="README-images/vm-setup/page-059.jpg"><img src="README-images/vm-setup/page-059.jpg" alt="VM installation step 59" width="500"></a><figcaption>Step 59: Logical-volume and filesystem review.</figcaption></figure><br>
+<p align="center"><a href="README-images/vm-setup/page-001.jpg"><img src="README-images/vm-setup/page-001.jpg" alt="VM installation step 1" width="500"></a></p>
+
+<p align="center">Step 01: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-002.jpg"><img src="README-images/vm-setup/page-002.jpg" alt="VM installation step 2" width="500"></a></p>
+
+<p align="center">Step 02: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-003.jpg"><img src="README-images/vm-setup/page-003.jpg" alt="VM installation step 3" width="500"></a></p>
+
+<p align="center">Step 03: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-004.jpg"><img src="README-images/vm-setup/page-004.jpg" alt="VM installation step 4" width="500"></a></p>
+
+<p align="center">Step 04: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-005.jpg"><img src="README-images/vm-setup/page-005.jpg" alt="VM installation step 5" width="500"></a></p>
+
+<p align="center">Step 05: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-006.jpg"><img src="README-images/vm-setup/page-006.jpg" alt="VM installation step 6" width="500"></a></p>
+
+<p align="center">Step 06: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-007.jpg"><img src="README-images/vm-setup/page-007.jpg" alt="VM installation step 7" width="500"></a></p>
+
+<p align="center">Step 07: VirtualBox and boot preparation.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-008.jpg"><img src="README-images/vm-setup/page-008.jpg" alt="VM installation step 8" width="500"></a></p>
+
+<p align="center">Step 08: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-009.jpg"><img src="README-images/vm-setup/page-009.jpg" alt="VM installation step 9" width="500"></a></p>
+
+<p align="center">Step 09: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-010.jpg"><img src="README-images/vm-setup/page-010.jpg" alt="VM installation step 10" width="500"></a></p>
+
+<p align="center">Step 10: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-011.jpg"><img src="README-images/vm-setup/page-011.jpg" alt="VM installation step 11" width="500"></a></p>
+
+<p align="center">Step 11: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-012.jpg"><img src="README-images/vm-setup/page-012.jpg" alt="VM installation step 12" width="500"></a></p>
+
+<p align="center">Step 12: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-013.jpg"><img src="README-images/vm-setup/page-013.jpg" alt="VM installation step 13" width="500"></a></p>
+
+<p align="center">Step 13: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-014.jpg"><img src="README-images/vm-setup/page-014.jpg" alt="VM installation step 14" width="500"></a></p>
+
+<p align="center">Step 14: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-015.jpg"><img src="README-images/vm-setup/page-015.jpg" alt="VM installation step 15" width="500"></a></p>
+
+<p align="center">Step 15: Debian installer configuration.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-016.jpg"><img src="README-images/vm-setup/page-016.jpg" alt="VM installation step 16" width="500"></a></p>
+
+<p align="center">Step 16: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-017.jpg"><img src="README-images/vm-setup/page-017.jpg" alt="VM installation step 17" width="500"></a></p>
+
+<p align="center">Step 17: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-018.jpg"><img src="README-images/vm-setup/page-018.jpg" alt="VM installation step 18" width="500"></a></p>
+
+<p align="center">Step 18: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-019.jpg"><img src="README-images/vm-setup/page-019.jpg" alt="VM installation step 19" width="500"></a></p>
+
+<p align="center">Step 19: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-020.jpg"><img src="README-images/vm-setup/page-020.jpg" alt="VM installation step 20" width="500"></a></p>
+
+<p align="center">Step 20: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-021.jpg"><img src="README-images/vm-setup/page-021.jpg" alt="VM installation step 21" width="500"></a></p>
+
+<p align="center">Step 21: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-022.jpg"><img src="README-images/vm-setup/page-022.jpg" alt="VM installation step 22" width="500"></a></p>
+
+<p align="center">Step 22: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-023.jpg"><img src="README-images/vm-setup/page-023.jpg" alt="VM installation step 23" width="500"></a></p>
+
+<p align="center">Step 23: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-024.jpg"><img src="README-images/vm-setup/page-024.jpg" alt="VM installation step 24" width="500"></a></p>
+
+<p align="center">Step 24: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-025.jpg"><img src="README-images/vm-setup/page-025.jpg" alt="VM installation step 25" width="500"></a></p>
+
+<p align="center">Step 25: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-026.jpg"><img src="README-images/vm-setup/page-026.jpg" alt="VM installation step 26" width="500"></a></p>
+
+<p align="center">Step 26: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-027.jpg"><img src="README-images/vm-setup/page-027.jpg" alt="VM installation step 27" width="500"></a></p>
+
+<p align="center">Step 27: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-028.jpg"><img src="README-images/vm-setup/page-028.jpg" alt="VM installation step 28" width="500"></a></p>
+
+<p align="center">Step 28: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-029.jpg"><img src="README-images/vm-setup/page-029.jpg" alt="VM installation step 29" width="500"></a></p>
+
+<p align="center">Step 29: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-030.jpg"><img src="README-images/vm-setup/page-030.jpg" alt="VM installation step 30" width="500"></a></p>
+
+<p align="center">Step 30: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-031.jpg"><img src="README-images/vm-setup/page-031.jpg" alt="VM installation step 31" width="500"></a></p>
+
+<p align="center">Step 31: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-032.jpg"><img src="README-images/vm-setup/page-032.jpg" alt="VM installation step 32" width="500"></a></p>
+
+<p align="center">Step 32: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-033.jpg"><img src="README-images/vm-setup/page-033.jpg" alt="VM installation step 33" width="500"></a></p>
+
+<p align="center">Step 33: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-034.jpg"><img src="README-images/vm-setup/page-034.jpg" alt="VM installation step 34" width="500"></a></p>
+
+<p align="center">Step 34: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-035.jpg"><img src="README-images/vm-setup/page-035.jpg" alt="VM installation step 35" width="500"></a></p>
+
+<p align="center">Step 35: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-036.jpg"><img src="README-images/vm-setup/page-036.jpg" alt="VM installation step 36" width="500"></a></p>
+
+<p align="center">Step 36: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-037.jpg"><img src="README-images/vm-setup/page-037.jpg" alt="VM installation step 37" width="500"></a></p>
+
+<p align="center">Step 37: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-038.jpg"><img src="README-images/vm-setup/page-038.jpg" alt="VM installation step 38" width="500"></a></p>
+
+<p align="center">Step 38: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-039.jpg"><img src="README-images/vm-setup/page-039.jpg" alt="VM installation step 39" width="500"></a></p>
+
+<p align="center">Step 39: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-040.jpg"><img src="README-images/vm-setup/page-040.jpg" alt="VM installation step 40" width="500"></a></p>
+
+<p align="center">Step 40: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-041.jpg"><img src="README-images/vm-setup/page-041.jpg" alt="VM installation step 41" width="500"></a></p>
+
+<p align="center">Step 41: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-042.jpg"><img src="README-images/vm-setup/page-042.jpg" alt="VM installation step 42" width="500"></a></p>
+
+<p align="center">Step 42: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-043.jpg"><img src="README-images/vm-setup/page-043.jpg" alt="VM installation step 43" width="500"></a></p>
+
+<p align="center">Step 43: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-044.jpg"><img src="README-images/vm-setup/page-044.jpg" alt="VM installation step 44" width="500"></a></p>
+
+<p align="center">Step 44: Encrypted storage and partitioning.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-045.jpg"><img src="README-images/vm-setup/page-045.jpg" alt="VM installation step 45" width="500"></a></p>
+
+<p align="center">Step 45: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-046.jpg"><img src="README-images/vm-setup/page-046.jpg" alt="VM installation step 46" width="500"></a></p>
+
+<p align="center">Step 46: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-047.jpg"><img src="README-images/vm-setup/page-047.jpg" alt="VM installation step 47" width="500"></a></p>
+
+<p align="center">Step 47: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-048.jpg"><img src="README-images/vm-setup/page-048.jpg" alt="VM installation step 48" width="500"></a></p>
+
+<p align="center">Step 48: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-049.jpg"><img src="README-images/vm-setup/page-049.jpg" alt="VM installation step 49" width="500"></a></p>
+
+<p align="center">Step 49: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-050.jpg"><img src="README-images/vm-setup/page-050.jpg" alt="VM installation step 50" width="500"></a></p>
+
+<p align="center">Step 50: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-051.jpg"><img src="README-images/vm-setup/page-051.jpg" alt="VM installation step 51" width="500"></a></p>
+
+<p align="center">Step 51: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-052.jpg"><img src="README-images/vm-setup/page-052.jpg" alt="VM installation step 52" width="500"></a></p>
+
+<p align="center">Step 52: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-053.jpg"><img src="README-images/vm-setup/page-053.jpg" alt="VM installation step 53" width="500"></a></p>
+
+<p align="center">Step 53: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-054.jpg"><img src="README-images/vm-setup/page-054.jpg" alt="VM installation step 54" width="500"></a></p>
+
+<p align="center">Step 54: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-055.jpg"><img src="README-images/vm-setup/page-055.jpg" alt="VM installation step 55" width="500"></a></p>
+
+<p align="center">Step 55: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-056.jpg"><img src="README-images/vm-setup/page-056.jpg" alt="VM installation step 56" width="500"></a></p>
+
+<p align="center">Step 56: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-057.jpg"><img src="README-images/vm-setup/page-057.jpg" alt="VM installation step 57" width="500"></a></p>
+
+<p align="center">Step 57: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-058.jpg"><img src="README-images/vm-setup/page-058.jpg" alt="VM installation step 58" width="500"></a></p>
+
+<p align="center">Step 58: Logical-volume and filesystem review.</p>
+
+<p align="center"><a href="README-images/vm-setup/page-059.jpg"><img src="README-images/vm-setup/page-059.jpg" alt="VM installation step 59" width="500"></a></p>
+
+<p align="center">Step 59: Logical-volume and filesystem review.</p>
+
 </div>
 
 </details>
@@ -142,7 +319,10 @@ lsblk
 ### LVM and storage evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-060-01.png"><img src="README-images/embedded/page-060-01.png" alt="Terminal evidence from PDF page 60" width="650"></a><figcaption>PDF page 60, image 1: `lsblk` confirms the 30.3 GB disk, `/boot`, encrypted `sda5_crypt`, root/home/var/srv/tmp/var-log logical volumes, and swap.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-060-01.png"><img src="README-images/embedded/page-060-01.png" alt="Terminal evidence from PDF page 60" width="650"></a></p>
+
+<p align="center">PDF page 60, image 1: `lsblk` confirms the 30.3 GB disk, `/boot`, encrypted `sda5_crypt`, root/home/var/srv/tmp/var-log logical volumes, and swap.</p>
+
 </div>
 
 LUKS encrypts the block device. The unlock passphrase is requested during boot. LVM then provides flexible logical volumes inside an encrypted volume group.
@@ -176,14 +356,38 @@ Do not place an encryption passphrase in this README.
 ### Sudo evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-062-01.png"><img src="README-images/embedded/page-062-01.png" alt="Terminal evidence from PDF page 62" width="650"></a><figcaption>PDF page 62, image 1: Sudo is installed from the root account before normal users can use delegated administration.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-063-01.png"><img src="README-images/embedded/page-063-01.png" alt="Terminal evidence from PDF page 63" width="650"></a><figcaption>PDF page 63, image 1: The Sudo package/version is checked after installation.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-064-01.png"><img src="README-images/embedded/page-064-01.png" alt="Terminal evidence from PDF page 64" width="650"></a><figcaption>PDF page 64, image 1: The required `user42` group is created.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-065-01.png"><img src="README-images/embedded/page-065-01.png" alt="Terminal evidence from PDF page 65" width="650"></a><figcaption>PDF page 65, image 1: The administrative user is added to both `sudo` and `user42`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-070-01.png"><img src="README-images/embedded/page-070-01.png" alt="Terminal evidence from PDF page 70" width="650"></a><figcaption>PDF page 70, image 1: The Sudo-password policy section begins.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-070-02.png"><img src="README-images/embedded/page-070-02.png" alt="Terminal evidence from PDF page 70" width="650"></a><figcaption>PDF page 70, image 2: The Sudo-password policy section begins.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-071-01.png"><img src="README-images/embedded/page-071-01.png" alt="Terminal evidence from PDF page 71" width="650"></a><figcaption>PDF page 71, image 1: The Sudo policy preparation continues; the project-specific settings are explained in Markdown below.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-071-02.png"><img src="README-images/embedded/page-071-02.png" alt="Terminal evidence from PDF page 71" width="650"></a><figcaption>PDF page 71, image 2: The Sudo policy preparation continues; the project-specific settings are explained in Markdown below.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-062-01.png"><img src="README-images/embedded/page-062-01.png" alt="Terminal evidence from PDF page 62" width="650"></a></p>
+
+<p align="center">PDF page 62, image 1: Sudo is installed from the root account before normal users can use delegated administration.</p>
+
+<p align="center"><a href="README-images/embedded/page-063-01.png"><img src="README-images/embedded/page-063-01.png" alt="Terminal evidence from PDF page 63" width="650"></a></p>
+
+<p align="center">PDF page 63, image 1: The Sudo package/version is checked after installation.</p>
+
+<p align="center"><a href="README-images/embedded/page-064-01.png"><img src="README-images/embedded/page-064-01.png" alt="Terminal evidence from PDF page 64" width="650"></a></p>
+
+<p align="center">PDF page 64, image 1: The required `user42` group is created.</p>
+
+<p align="center"><a href="README-images/embedded/page-065-01.png"><img src="README-images/embedded/page-065-01.png" alt="Terminal evidence from PDF page 65" width="650"></a></p>
+
+<p align="center">PDF page 65, image 1: The administrative user is added to both `sudo` and `user42`.</p>
+
+<p align="center"><a href="README-images/embedded/page-070-01.png"><img src="README-images/embedded/page-070-01.png" alt="Terminal evidence from PDF page 70" width="650"></a></p>
+
+<p align="center">PDF page 70, image 1: The Sudo-password policy section begins.</p>
+
+<p align="center"><a href="README-images/embedded/page-070-02.png"><img src="README-images/embedded/page-070-02.png" alt="Terminal evidence from PDF page 70" width="650"></a></p>
+
+<p align="center">PDF page 70, image 2: The Sudo-password policy section begins.</p>
+
+<p align="center"><a href="README-images/embedded/page-071-01.png"><img src="README-images/embedded/page-071-01.png" alt="Terminal evidence from PDF page 71" width="650"></a></p>
+
+<p align="center">PDF page 71, image 1: The Sudo policy preparation continues; the project-specific settings are explained in Markdown below.</p>
+
+<p align="center"><a href="README-images/embedded/page-071-02.png"><img src="README-images/embedded/page-071-02.png" alt="Terminal evidence from PDF page 71" width="650"></a></p>
+
+<p align="center">PDF page 71, image 2: The Sudo policy preparation continues; the project-specific settings are explained in Markdown below.</p>
+
 </div>
 
 ### Create the required groups and user
@@ -321,14 +525,38 @@ find / -name '<filename>' 2>/dev/null
 ### SSH evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-074-01.png"><img src="README-images/embedded/page-074-01.png" alt="Terminal evidence from PDF page 74" width="650"></a><figcaption>PDF page 74, image 1: OpenSSH server installation begins after updating package repositories.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-075-01.png"><img src="README-images/embedded/page-075-01.png" alt="Terminal evidence from PDF page 75" width="650"></a><figcaption>PDF page 75, image 1: The SSH service is checked after installation.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-076-01.png"><img src="README-images/embedded/page-076-01.png" alt="Terminal evidence from PDF page 76" width="650"></a><figcaption>PDF page 76, image 1: The server configuration changes the listening port to `4242`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-077-01.png"><img src="README-images/embedded/page-077-01.png" alt="Terminal evidence from PDF page 77" width="650"></a><figcaption>PDF page 77, image 1: The client configuration is separate from the server configuration.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-078-01.png"><img src="README-images/embedded/page-078-01.png" alt="Terminal evidence from PDF page 78" width="650"></a><figcaption>PDF page 78, image 1: An SSH connection is tested using the configured port.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-079-01.png"><img src="README-images/embedded/page-079-01.png" alt="Terminal evidence from PDF page 79" width="650"></a><figcaption>PDF page 79, image 1: Connection evidence from the SSH setup.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-080-01.png"><img src="README-images/embedded/page-080-01.png" alt="Terminal evidence from PDF page 80" width="650"></a><figcaption>PDF page 80, image 1: The connection is continued from the host computer.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-080-02.png"><img src="README-images/embedded/page-080-02.png" alt="Terminal evidence from PDF page 80" width="650"></a><figcaption>PDF page 80, image 2: The connection is continued from the host computer.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-074-01.png"><img src="README-images/embedded/page-074-01.png" alt="Terminal evidence from PDF page 74" width="650"></a></p>
+
+<p align="center">PDF page 74, image 1: OpenSSH server installation begins after updating package repositories.</p>
+
+<p align="center"><a href="README-images/embedded/page-075-01.png"><img src="README-images/embedded/page-075-01.png" alt="Terminal evidence from PDF page 75" width="650"></a></p>
+
+<p align="center">PDF page 75, image 1: The SSH service is checked after installation.</p>
+
+<p align="center"><a href="README-images/embedded/page-076-01.png"><img src="README-images/embedded/page-076-01.png" alt="Terminal evidence from PDF page 76" width="650"></a></p>
+
+<p align="center">PDF page 76, image 1: The server configuration changes the listening port to `4242`.</p>
+
+<p align="center"><a href="README-images/embedded/page-077-01.png"><img src="README-images/embedded/page-077-01.png" alt="Terminal evidence from PDF page 77" width="650"></a></p>
+
+<p align="center">PDF page 77, image 1: The client configuration is separate from the server configuration.</p>
+
+<p align="center"><a href="README-images/embedded/page-078-01.png"><img src="README-images/embedded/page-078-01.png" alt="Terminal evidence from PDF page 78" width="650"></a></p>
+
+<p align="center">PDF page 78, image 1: An SSH connection is tested using the configured port.</p>
+
+<p align="center"><a href="README-images/embedded/page-079-01.png"><img src="README-images/embedded/page-079-01.png" alt="Terminal evidence from PDF page 79" width="650"></a></p>
+
+<p align="center">PDF page 79, image 1: Connection evidence from the SSH setup.</p>
+
+<p align="center"><a href="README-images/embedded/page-080-01.png"><img src="README-images/embedded/page-080-01.png" alt="Terminal evidence from PDF page 80" width="650"></a></p>
+
+<p align="center">PDF page 80, image 1: The connection is continued from the host computer.</p>
+
+<p align="center"><a href="README-images/embedded/page-080-02.png"><img src="README-images/embedded/page-080-02.png" alt="Terminal evidence from PDF page 80" width="650"></a></p>
+
+<p align="center">PDF page 80, image 2: The connection is continued from the host computer.</p>
+
 </div>
 
 Install and enable the server:
@@ -387,8 +615,14 @@ SSH means **Secure Shell**. It provides encrypted remote administration, authent
 ### UFW evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-083-01.png"><img src="README-images/embedded/page-083-01.png" alt="Terminal evidence from PDF page 83" width="650"></a><figcaption>PDF page 83, image 1: UFW is installed.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-084-01.png"><img src="README-images/embedded/page-084-01.png" alt="Terminal evidence from PDF page 84" width="650"></a><figcaption>PDF page 84, image 1: UFW is enabled, port `4242` is allowed, and the active rules are checked.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-083-01.png"><img src="README-images/embedded/page-083-01.png" alt="Terminal evidence from PDF page 83" width="650"></a></p>
+
+<p align="center">PDF page 83, image 1: UFW is installed.</p>
+
+<p align="center"><a href="README-images/embedded/page-084-01.png"><img src="README-images/embedded/page-084-01.png" alt="Terminal evidence from PDF page 84" width="650"></a></p>
+
+<p align="center">PDF page 84, image 1: UFW is enabled, port `4242` is allowed, and the active rules are checked.</p>
+
 </div>
 
 Install and configure UFW before enabling it:
@@ -436,14 +670,38 @@ sudo ufw disable
 ### Password policy evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-088-01.png"><img src="README-images/embedded/page-088-01.png" alt="Terminal evidence from PDF page 88" width="650"></a><figcaption>PDF page 88, image 1: Password hardening begins with `/etc/login.defs`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-089-01.png"><img src="README-images/embedded/page-089-01.png" alt="Terminal evidence from PDF page 89" width="650"></a><figcaption>PDF page 89, image 1: Password-aging evidence from the installed system.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-090-01.png"><img src="README-images/embedded/page-090-01.png" alt="Terminal evidence from PDF page 90" width="650"></a><figcaption>PDF page 90, image 1: The current password-aging values are listed with `chage -l`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-091-01.png"><img src="README-images/embedded/page-091-01.png" alt="Terminal evidence from PDF page 91" width="650"></a><figcaption>PDF page 91, image 1: Password-aging values are applied to the user.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-092-01.png"><img src="README-images/embedded/page-092-01.png" alt="Terminal evidence from PDF page 92" width="650"></a><figcaption>PDF page 92, image 1: The PAM password-quality package is installed.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-093-01.png"><img src="README-images/embedded/page-093-01.png" alt="Terminal evidence from PDF page 93" width="650"></a><figcaption>PDF page 93, image 1: The PAM password configuration file is opened.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-094-01.png"><img src="README-images/embedded/page-094-01.png" alt="Terminal evidence from PDF page 94" width="650"></a><figcaption>PDF page 94, image 1: The final `pam_pwquality.so` rule is shown; its flags are explained below.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-094-02.png"><img src="README-images/embedded/page-094-02.png" alt="Terminal evidence from PDF page 94" width="650"></a><figcaption>PDF page 94, image 2: The final `pam_pwquality.so` rule is shown; its flags are explained below.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-088-01.png"><img src="README-images/embedded/page-088-01.png" alt="Terminal evidence from PDF page 88" width="650"></a></p>
+
+<p align="center">PDF page 88, image 1: Password hardening begins with `/etc/login.defs`.</p>
+
+<p align="center"><a href="README-images/embedded/page-089-01.png"><img src="README-images/embedded/page-089-01.png" alt="Terminal evidence from PDF page 89" width="650"></a></p>
+
+<p align="center">PDF page 89, image 1: Password-aging evidence from the installed system.</p>
+
+<p align="center"><a href="README-images/embedded/page-090-01.png"><img src="README-images/embedded/page-090-01.png" alt="Terminal evidence from PDF page 90" width="650"></a></p>
+
+<p align="center">PDF page 90, image 1: The current password-aging values are listed with `chage -l`.</p>
+
+<p align="center"><a href="README-images/embedded/page-091-01.png"><img src="README-images/embedded/page-091-01.png" alt="Terminal evidence from PDF page 91" width="650"></a></p>
+
+<p align="center">PDF page 91, image 1: Password-aging values are applied to the user.</p>
+
+<p align="center"><a href="README-images/embedded/page-092-01.png"><img src="README-images/embedded/page-092-01.png" alt="Terminal evidence from PDF page 92" width="650"></a></p>
+
+<p align="center">PDF page 92, image 1: The PAM password-quality package is installed.</p>
+
+<p align="center"><a href="README-images/embedded/page-093-01.png"><img src="README-images/embedded/page-093-01.png" alt="Terminal evidence from PDF page 93" width="650"></a></p>
+
+<p align="center">PDF page 93, image 1: The PAM password configuration file is opened.</p>
+
+<p align="center"><a href="README-images/embedded/page-094-01.png"><img src="README-images/embedded/page-094-01.png" alt="Terminal evidence from PDF page 94" width="650"></a></p>
+
+<p align="center">PDF page 94, image 1: The final `pam_pwquality.so` rule is shown; its flags are explained below.</p>
+
+<p align="center"><a href="README-images/embedded/page-094-02.png"><img src="README-images/embedded/page-094-02.png" alt="Terminal evidence from PDF page 94" width="650"></a></p>
+
+<p align="center">PDF page 94, image 2: The final `pam_pwquality.so` rule is shown; its flags are explained below.</p>
+
 </div>
 
 Install PAM password-quality support:
@@ -509,10 +767,22 @@ kill %1
 ### Monitoring and permissions evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-097-01.png"><img src="README-images/embedded/page-097-01.png" alt="Terminal evidence from PDF page 97" width="650"></a><figcaption>PDF page 97, image 1: The monitoring script section begins.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-098-01.png"><img src="README-images/embedded/page-098-01.png" alt="Terminal evidence from PDF page 98" width="650"></a><figcaption>PDF page 98, image 1: Monitoring-script evidence from the original project.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-099-01.png"><img src="README-images/embedded/page-099-01.png" alt="Terminal evidence from PDF page 99" width="650"></a><figcaption>PDF page 99, image 1: The Bash script, shebang, and `wall` broadcast mechanism are explained below.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-101-01.png"><img src="README-images/embedded/page-101-01.png" alt="Terminal evidence from PDF page 101" width="650"></a><figcaption>PDF page 101, image 1: Permission numbers and background-job commands are demonstrated.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-097-01.png"><img src="README-images/embedded/page-097-01.png" alt="Terminal evidence from PDF page 97" width="650"></a></p>
+
+<p align="center">PDF page 97, image 1: The monitoring script section begins.</p>
+
+<p align="center"><a href="README-images/embedded/page-098-01.png"><img src="README-images/embedded/page-098-01.png" alt="Terminal evidence from PDF page 98" width="650"></a></p>
+
+<p align="center">PDF page 98, image 1: Monitoring-script evidence from the original project.</p>
+
+<p align="center"><a href="README-images/embedded/page-099-01.png"><img src="README-images/embedded/page-099-01.png" alt="Terminal evidence from PDF page 99" width="650"></a></p>
+
+<p align="center">PDF page 99, image 1: The Bash script, shebang, and `wall` broadcast mechanism are explained below.</p>
+
+<p align="center"><a href="README-images/embedded/page-101-01.png"><img src="README-images/embedded/page-101-01.png" alt="Terminal evidence from PDF page 101" width="650"></a></p>
+
+<p align="center">PDF page 101, image 1: Permission numbers and background-job commands are demonstrated.</p>
+
 </div>
 
 Create `monitoring.sh` with a Bash shebang and make it executable:
@@ -560,11 +830,26 @@ sudo crontab -l
 ### AppArmor and filesystem evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-103-01.png"><img src="README-images/embedded/page-103-01.png" alt="Terminal evidence from PDF page 103" width="650"></a><figcaption>PDF page 103, image 1: AppArmor profile status is inspected.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-104-01.png"><img src="README-images/embedded/page-104-01.png" alt="Terminal evidence from PDF page 104" width="650"></a><figcaption>PDF page 104, image 1: AppArmor enforce, complain, and unconfined profile states are explained.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-105-01.png"><img src="README-images/embedded/page-105-01.png" alt="Terminal evidence from PDF page 105" width="650"></a><figcaption>PDF page 105, image 1: AppArmor profile locations and enforce mode are shown.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-106-01.png"><img src="README-images/embedded/page-106-01.png" alt="Terminal evidence from PDF page 106" width="650"></a><figcaption>PDF page 106, image 1: The Linux filesystem hierarchy starts with `/boot` and `/dev`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-109-01.png"><img src="README-images/embedded/page-109-01.png" alt="Terminal evidence from PDF page 109" width="650"></a><figcaption>PDF page 109, image 1: `/usr/local` and non-standard paths are explained.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-103-01.png"><img src="README-images/embedded/page-103-01.png" alt="Terminal evidence from PDF page 103" width="650"></a></p>
+
+<p align="center">PDF page 103, image 1: AppArmor profile status is inspected.</p>
+
+<p align="center"><a href="README-images/embedded/page-104-01.png"><img src="README-images/embedded/page-104-01.png" alt="Terminal evidence from PDF page 104" width="650"></a></p>
+
+<p align="center">PDF page 104, image 1: AppArmor enforce, complain, and unconfined profile states are explained.</p>
+
+<p align="center"><a href="README-images/embedded/page-105-01.png"><img src="README-images/embedded/page-105-01.png" alt="Terminal evidence from PDF page 105" width="650"></a></p>
+
+<p align="center">PDF page 105, image 1: AppArmor profile locations and enforce mode are shown.</p>
+
+<p align="center"><a href="README-images/embedded/page-106-01.png"><img src="README-images/embedded/page-106-01.png" alt="Terminal evidence from PDF page 106" width="650"></a></p>
+
+<p align="center">PDF page 106, image 1: The Linux filesystem hierarchy starts with `/boot` and `/dev`.</p>
+
+<p align="center"><a href="README-images/embedded/page-109-01.png"><img src="README-images/embedded/page-109-01.png" alt="Terminal evidence from PDF page 109" width="650"></a></p>
+
+<p align="center">PDF page 109, image 1: `/usr/local` and non-standard paths are explained.</p>
+
 </div>
 
 AppArmor confines programs with profiles. Profiles can run in:
@@ -608,21 +893,66 @@ The PDF mentions `/blice` and `/bob`; these are not standard Linux hierarchy dir
 ### WordPress bonus evidence
 
 <div align="center">
-<figure><a href="README-images/embedded/page-111-01.png"><img src="README-images/embedded/page-111-01.png" alt="Terminal evidence from PDF page 111" width="650"></a><figcaption>PDF page 111, image 1: Lighttpd is installed for the optional WordPress bonus.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-112-01.png"><img src="README-images/embedded/page-112-01.png" alt="Terminal evidence from PDF page 112" width="650"></a><figcaption>PDF page 112, image 1: HTTP port 80 is allowed for the optional web server.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-113-01.png"><img src="README-images/embedded/page-113-01.png" alt="Terminal evidence from PDF page 113" width="650"></a><figcaption>PDF page 113, image 1: WordPress web-server evidence from the original project.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-117-01.png"><img src="README-images/embedded/page-117-01.png" alt="Terminal evidence from PDF page 117" width="650"></a><figcaption>PDF page 117, image 1: The WordPress archive is downloaded into `/var/www`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-118-01.png"><img src="README-images/embedded/page-118-01.png" alt="Terminal evidence from PDF page 118" width="650"></a><figcaption>PDF page 118, image 1: The archive is extracted.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-119-01.png"><img src="README-images/embedded/page-119-01.png" alt="Terminal evidence from PDF page 119" width="650"></a><figcaption>PDF page 119, image 1: The existing web root is backed up before replacement.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-120-01.png"><img src="README-images/embedded/page-120-01.png" alt="Terminal evidence from PDF page 120" width="650"></a><figcaption>PDF page 120, image 1: The extracted WordPress directory becomes `/var/www/html`.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-124-01.png"><img src="README-images/embedded/page-124-01.png" alt="Terminal evidence from PDF page 124" width="650"></a><figcaption>PDF page 124, image 1: MariaDB security initialization is run.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-125-01.png"><img src="README-images/embedded/page-125-01.png" alt="Terminal evidence from PDF page 125" width="650"></a><figcaption>PDF page 125, image 1: The MariaDB administrative client is opened.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-126-01.png"><img src="README-images/embedded/page-126-01.png" alt="Terminal evidence from PDF page 126" width="650"></a><figcaption>PDF page 126, image 1: A dedicated WordPress database user receives database privileges; the visible password must never be reused.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-129-01.png"><img src="README-images/embedded/page-129-01.png" alt="Terminal evidence from PDF page 129" width="650"></a><figcaption>PDF page 129, image 1: PHP CGI and the MariaDB PHP driver are installed.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-130-01.png"><img src="README-images/embedded/page-130-01.png" alt="Terminal evidence from PDF page 130" width="650"></a><figcaption>PDF page 130, image 1: `wp-config.php` is created and configured.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-131-01.png"><img src="README-images/embedded/page-131-01.png" alt="Terminal evidence from PDF page 131" width="650"></a><figcaption>PDF page 131, image 1: Lighttpd FastCGI and PHP modules are enabled and the service is reloaded.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-132-01.png"><img src="README-images/embedded/page-132-01.png" alt="Terminal evidence from PDF page 132" width="650"></a><figcaption>PDF page 132, image 1: Final WordPress configuration evidence is checked before claiming the bonus.</figcaption></figure><br>
-<figure><a href="README-images/embedded/page-132-02.png"><img src="README-images/embedded/page-132-02.png" alt="Terminal evidence from PDF page 132" width="650"></a><figcaption>PDF page 132, image 2: Final WordPress configuration evidence is checked before claiming the bonus.</figcaption></figure><br>
+<p align="center"><a href="README-images/embedded/page-111-01.png"><img src="README-images/embedded/page-111-01.png" alt="Terminal evidence from PDF page 111" width="650"></a></p>
+
+<p align="center">PDF page 111, image 1: Lighttpd is installed for the optional WordPress bonus.</p>
+
+<p align="center"><a href="README-images/embedded/page-112-01.png"><img src="README-images/embedded/page-112-01.png" alt="Terminal evidence from PDF page 112" width="650"></a></p>
+
+<p align="center">PDF page 112, image 1: HTTP port 80 is allowed for the optional web server.</p>
+
+<p align="center"><a href="README-images/embedded/page-113-01.png"><img src="README-images/embedded/page-113-01.png" alt="Terminal evidence from PDF page 113" width="650"></a></p>
+
+<p align="center">PDF page 113, image 1: WordPress web-server evidence from the original project.</p>
+
+<p align="center"><a href="README-images/embedded/page-117-01.png"><img src="README-images/embedded/page-117-01.png" alt="Terminal evidence from PDF page 117" width="650"></a></p>
+
+<p align="center">PDF page 117, image 1: The WordPress archive is downloaded into `/var/www`.</p>
+
+<p align="center"><a href="README-images/embedded/page-118-01.png"><img src="README-images/embedded/page-118-01.png" alt="Terminal evidence from PDF page 118" width="650"></a></p>
+
+<p align="center">PDF page 118, image 1: The archive is extracted.</p>
+
+<p align="center"><a href="README-images/embedded/page-119-01.png"><img src="README-images/embedded/page-119-01.png" alt="Terminal evidence from PDF page 119" width="650"></a></p>
+
+<p align="center">PDF page 119, image 1: The existing web root is backed up before replacement.</p>
+
+<p align="center"><a href="README-images/embedded/page-120-01.png"><img src="README-images/embedded/page-120-01.png" alt="Terminal evidence from PDF page 120" width="650"></a></p>
+
+<p align="center">PDF page 120, image 1: The extracted WordPress directory becomes `/var/www/html`.</p>
+
+<p align="center"><a href="README-images/embedded/page-124-01.png"><img src="README-images/embedded/page-124-01.png" alt="Terminal evidence from PDF page 124" width="650"></a></p>
+
+<p align="center">PDF page 124, image 1: MariaDB security initialization is run.</p>
+
+<p align="center"><a href="README-images/embedded/page-125-01.png"><img src="README-images/embedded/page-125-01.png" alt="Terminal evidence from PDF page 125" width="650"></a></p>
+
+<p align="center">PDF page 125, image 1: The MariaDB administrative client is opened.</p>
+
+<p align="center"><a href="README-images/embedded/page-126-01.png"><img src="README-images/embedded/page-126-01.png" alt="Terminal evidence from PDF page 126" width="650"></a></p>
+
+<p align="center">PDF page 126, image 1: A dedicated WordPress database user receives database privileges; the visible password must never be reused.</p>
+
+<p align="center"><a href="README-images/embedded/page-129-01.png"><img src="README-images/embedded/page-129-01.png" alt="Terminal evidence from PDF page 129" width="650"></a></p>
+
+<p align="center">PDF page 129, image 1: PHP CGI and the MariaDB PHP driver are installed.</p>
+
+<p align="center"><a href="README-images/embedded/page-130-01.png"><img src="README-images/embedded/page-130-01.png" alt="Terminal evidence from PDF page 130" width="650"></a></p>
+
+<p align="center">PDF page 130, image 1: `wp-config.php` is created and configured.</p>
+
+<p align="center"><a href="README-images/embedded/page-131-01.png"><img src="README-images/embedded/page-131-01.png" alt="Terminal evidence from PDF page 131" width="650"></a></p>
+
+<p align="center">PDF page 131, image 1: Lighttpd FastCGI and PHP modules are enabled and the service is reloaded.</p>
+
+<p align="center"><a href="README-images/embedded/page-132-01.png"><img src="README-images/embedded/page-132-01.png" alt="Terminal evidence from PDF page 132" width="650"></a></p>
+
+<p align="center">PDF page 132, image 1: Final WordPress configuration evidence is checked before claiming the bonus.</p>
+
+<p align="center"><a href="README-images/embedded/page-132-02.png"><img src="README-images/embedded/page-132-02.png" alt="Terminal evidence from PDF page 132" width="650"></a></p>
+
+<p align="center">PDF page 132, image 2: Final WordPress configuration evidence is checked before claiming the bonus.</p>
+
 </div>
 
 The PDF describes an optional WordPress installation with Lighttpd, MariaDB, and PHP:
